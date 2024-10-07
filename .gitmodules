@@ -1,0 +1,3 @@
+[submodule "todo.txt-cli-dorecur"]
+	path = todo.txt-cli-dorecur
+	url = git@github.com:owenh000/todo.txt-cli-dorecur.git
